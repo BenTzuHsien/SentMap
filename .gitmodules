@@ -1,6 +1,6 @@
 [submodule "SpotStack"]
 	path = SpotStack
-	url = https://github.com/Benasking7124/SpotStack.git
+	url = https://github.com/BenTzuHsien/SpotStack.git
 [submodule "Object_Centric_Local_Navigation"]
 	path = Object_Centric_Local_Navigation
-	url = https://github.com/Benasking7124/Object_Centric_Local_Navigation.git
+	url = https://github.com/BenTzuHsien/Object_Centric_Local_Navigation.git
