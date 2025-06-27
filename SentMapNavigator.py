@@ -95,6 +95,8 @@ class SentMapNavigator:
         carrying_pose = SE3Pose(x=0.2, y=0.0, z=0.45, rot=Quat.from_pitch(1.2))
         self._arm_grasper.move_to_pose(carrying_pose, 0)
         time.sleep(1)
+        
+        self._arm_grasper.freeze_arm()
 
     def place(self):
         
